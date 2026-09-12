@@ -4,9 +4,6 @@ Savor is a restaurant starter kit for seasonal kitchens, chef-led dining rooms, 
 
 The kit ships four home variants, menu listings, reservations, events, shop pages, blog and podcast layouts, and membership content so a restaurant can publish its menu and take booking inquiries from one site.
 
-**Live demo:** https://savor-statamic.webbydemo.in/  
-Control Panel: `/cp` — `admin@example.com` / `password`
-
 ## Pages of Savor
 
 The Savor starter kit includes a comprehensive set of pages for a restaurant site:
