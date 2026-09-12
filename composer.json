@@ -1,0 +1,13 @@
+{
+  "name": "webbycrown/savor-statamic-theme",
+  "type": "statamic-starter-kit",
+  "description": "A Statamic starter kit for restaurants, featuring seasonal menus, named chefs, events, and table reservations.",
+  "require": {
+    "statamic/cms": "*"
+  },
+  "extra": {
+    "statamic": {
+      "starter-kit": true
+    }
+  }
+}
